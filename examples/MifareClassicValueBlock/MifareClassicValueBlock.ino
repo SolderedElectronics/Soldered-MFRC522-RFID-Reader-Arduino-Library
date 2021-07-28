@@ -325,7 +325,8 @@ void formatValueBlock(byte blockAddr)
     else
     {
         Serial.println(F("Formatting as Value Block..."));
-        byte valueBlock[] = {0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, blockAddr, ~blockAddr, blockAddr, ~blockAddr};
+        byte valueBlock[] = {
+            0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, blockAddr, ~(byte)blockAddr, blockAddr, ~(byte)blockAddr};
         status = mfrc522.MIFARE_Write(blockAddr, valueBlock, 16);
         if (status != MFRC522::STATUS_OK)
         {
