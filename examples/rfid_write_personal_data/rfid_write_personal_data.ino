@@ -18,7 +18,7 @@
  * PICC (Proximity Integrated Circuit Card): A card or tag using the ISO 14443A interface, eg Mifare or NTAG203.
  * The reader can be found on eBay for around 5 dollars. Search for "mf-rc522" on ebay.com.
  *
- * Modified by: soldered.com for use with our board, see more at solde.red/[_sku]
+ * Modified by: soldered.com for use with our board, see more at solde.red/101218
  */
 
 #include "MFRC522-SOLDERED.h"

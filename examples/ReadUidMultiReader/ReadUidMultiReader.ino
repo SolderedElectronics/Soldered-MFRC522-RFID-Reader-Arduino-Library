@@ -25,7 +25,7 @@
  * SPI MISO    MISO         12 / ICSP-1   50        D12        ICSP-1           14
  * SPI SCK     SCK          13 / ICSP-3   52        D13        ICSP-3           15
  *
- * Modified by: soldered.com for use with our board, see more at solde.red/[_sku]
+ * Modified by: soldered.com for use with our board, see more at solde.red/101218
  */
 
 #include "MFRC522-SOLDERED.h"

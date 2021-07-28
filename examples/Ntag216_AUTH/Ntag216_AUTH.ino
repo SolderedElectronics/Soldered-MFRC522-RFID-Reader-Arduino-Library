@@ -14,7 +14,7 @@
  * @author GARGANTUA from RoboCreators.com & paradoxalabs.com
  * @license Released into the public domain.
  *
- * Modified by: soldered.com for use with our board, see more at solde.red/[_sku]
+ * Modified by: soldered.com for use with our board, see more at solde.red/101218
  */
 
 #include "MFRC522-SOLDERED.h"
