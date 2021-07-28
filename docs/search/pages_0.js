@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['naziv_20proizvoda_20arduino_20library_41',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['mfrc522_20rfid_20soldered_20board_20arduino_20library_484',['MFRC522 Rfid Soldered board Arduino library',['../index.html',1,'']]]
 ];

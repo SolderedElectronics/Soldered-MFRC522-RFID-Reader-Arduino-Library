@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['sendaddress_17',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_18',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_19',['Sensor',['../class_sensor.html',1,'Sensor'],['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor::Sensor()']]]
+  ['keybyte_47',['keyByte',['../struct_m_f_r_c522_1_1_m_i_f_a_r_e___key.html#af4b154f686bfbb46e6ee780ce154cefa',1,'MFRC522::MIFARE_Key']]]
 ];

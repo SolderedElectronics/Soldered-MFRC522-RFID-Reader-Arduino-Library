@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['initializenative_29',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['getstatuscodename_262',['GetStatusCodeName',['../class_m_f_r_c522.html#a32f88620ab97f7fef3693280c58cb4bb',1,'MFRC522']]]
 ];

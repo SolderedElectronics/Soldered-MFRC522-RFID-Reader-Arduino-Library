@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['pin_13',['pin',['../class_sensor.html#a0efecf34431610766469857f25e113da',1,'Sensor']]]
+  ['getstatuscodename_43',['GetStatusCodeName',['../class_m_f_r_c522.html#a32f88620ab97f7fef3693280c58cb4bb',1,'MFRC522']]],
+  ['gsnreg_44',['GsNReg',['../class_m_f_r_c522.html#a3f25eb3421a80d3aeca247c9640f0669a2f81aa5f433fa51bb4b41cd8955de794',1,'MFRC522']]]
 ];

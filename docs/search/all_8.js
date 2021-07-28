@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['readdata_14',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_15',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_16',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['inf_45',['inf',['../struct_m_f_r_c522_extended_1_1_pcb_block.html#a390e24defc1cfc05036b5ca3d20b53b8',1,'MFRC522Extended::PcbBlock']]],
+  ['initializenative_46',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC']]]
 ];
