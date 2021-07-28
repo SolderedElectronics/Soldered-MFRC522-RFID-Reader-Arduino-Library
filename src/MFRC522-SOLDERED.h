@@ -6,25 +6,15 @@
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/
 
-#ifndef __SENSOR__
-#define __SENSOR__
+#ifndef __MFRC522_BOARD__
+#define __MFRC522_BOARD__
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
-
-class Sensor : public EasyC
-{
-  public:
-    Sensor(int _pin);
-
-  protected:
-    void initializeNative();
-
-  private:
-    int pin;
-};
+// #include "libs/Generic-easyC/easyC.h"
+#include "libs/rfid/src/MFRC522.h"
+#include "libs/rfid/src/MFRC522Extended.h"
 
 #endif
