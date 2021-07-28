@@ -505,6 +505,7 @@ uint8_t findIDSLOT(byte find[])
             return i; // The slot number of the card
         }
     }
+    return 0;
 }
 
 ///////////////////////////////////////// Find ID From EEPROM   ///////////////////////////////////
