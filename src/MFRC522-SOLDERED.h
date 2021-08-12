@@ -13,7 +13,6 @@
 #define __MFRC522_BOARD__
 
 #include "Arduino.h"
-// #include "libs/Generic-easyC/easyC.h"
 #include "libs/rfid/src/MFRC522.h"
 #include "libs/rfid/src/MFRC522Extended.h"
 
