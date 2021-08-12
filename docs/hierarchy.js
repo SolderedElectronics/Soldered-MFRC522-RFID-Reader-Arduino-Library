@@ -1,7 +1,6 @@
 var hierarchy =
 [
     [ "MFRC522Extended::Ats", "struct_m_f_r_c522_extended_1_1_ats.html", null ],
-    [ "EasyC", "class_easy_c.html", null ],
     [ "MFRC522", "class_m_f_r_c522.html", [
       [ "MFRC522Extended", "class_m_f_r_c522_extended.html", null ]
     ] ],
