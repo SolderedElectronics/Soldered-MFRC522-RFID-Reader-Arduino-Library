@@ -1,13 +1,13 @@
-# MFRC522 Rfid Soldered board Arduino library
+# MFRC522 RFID Soldered board Arduino library
 
-[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-MFRC522-Rfid-Reader-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-MFRC522-Rfid-Reader-Arduino-Library/actions/workflows/compile_test.yml)
-[![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-MFRC522-Rfid-Reader-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-MFRC522-Rfid-Reader-Arduino-Library/actions/workflows/make_docs.yml)
+[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-MFRC522-RFID-Reader-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-MFRC522-Rfid-Reader-Arduino-Library/actions/workflows/compile_test.yml)
+[![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-MFRC522-RFID-Reader-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-MFRC522-Rfid-Reader-Arduino-Library/actions/workflows/make_docs.yml)
 
-| ![MFRC522 Rfid Soldered board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![MFRC522 RFID Soldered board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------:       |
-| [MFRC522 Rfid Soldered Board](https://www.solde.red/101218)                                           |
+| [MFRC522 RFID Soldered Board](https://www.solde.red/SKU)                                           |
 
-MFRC522 Rfid Soldered board Arduino library allows for easy RFID identification on microcontrollers.
+MFRC522 RFID Soldered board Arduino library allows for easy RFID identification on microcontrollers.
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
@@ -15,13 +15,13 @@ MFRC522 Rfid Soldered board Arduino library allows for easy RFID identification 
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in NAZIV PROIZVODA hardware repository
+You can find hardware design for this board in MFRC522 RFID hardware repository
 
 ### Documentation
 
 Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-MFRC522-Rfid-Reader-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the MFRC522 RFID board
 - Installing an Arduino library
 
 ### About Soldered
