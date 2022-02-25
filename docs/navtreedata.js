@@ -24,8 +24,8 @@
 */
 var NAVTREE =
 [
-  [ "MFRC522 Rfid Reader", "index.html", [
-    [ "MFRC522 Rfid Soldered board Arduino library", "index.html", null ],
+  [ "MFRC522 RFID Reader", "index.html", [
+    [ "MFRC522 RFID Soldered board Arduino library", "index.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -51,7 +51,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_m_f_r_c522-_s_o_l_d_e_r_e_d_8cpp.html",
-"index.html"
+"globals.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
