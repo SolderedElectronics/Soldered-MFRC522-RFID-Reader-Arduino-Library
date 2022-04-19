@@ -5,7 +5,7 @@
 
 | ![MFRC522 RFID Soldered board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------:       |
-| [MFRC522 RFID Soldered Board](https://www.solde.red/SKU)                                           |
+| [MFRC522 RFID Soldered Board](https://www.solde.red/101218)                                           |
 
 MFRC522 RFID Soldered board Arduino library allows for easy RFID identification on microcontrollers.
 
